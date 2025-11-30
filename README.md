@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This was a final team project for the course **BQOM 2512 – Advanced Decision Technology** at the University of Pittsburgh.  
+This was a final team project for the course **Advanced Decision Technology** at the University of Pittsburgh.  
 Our goal was to model a realistic national energy planning problem using linear programming and multi-objective analysis.
 
 We created an Excel-based tool that:
@@ -91,7 +91,7 @@ Project Advisor: Prof. Elena Rokou
 
 ---
 
-## 📚 References
+## References
 
 - U.S. EIA – Energy Information Administration  
 - Center for Sustainable Systems – Nuclear & Renewable Factsheets  
