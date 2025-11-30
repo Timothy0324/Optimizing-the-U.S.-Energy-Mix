@@ -1,14 +1,13 @@
-# Optimizing-the-U.S.-Energy-Mix
 # ⚡ U.S. Energy Mix Optimization – Multi-Objective Decision Model
 
 ---
 ## Files
 
 **Full Report (PDF):**  
-[View Presentation](https://github.com/Timothy0324/Spotify-Song-Popularity-Analysis/blob/main/What%20Makes%20a%20Song%20Popular_1128.pdf)
+[View Presentation](https://github.com/Timothy0324/Optimizing-the-U.S.-Energy-Mix/blob/main/ADT_Presentation(Azure%2C%20Revati%2C%20Timothy).pdf)
 
 **Excel-Based Model:**  
-[Open Notebook](https://github.com/Timothy0324/Spotify-Song-Popularity-Analysis/blob/main/What%20makes%20a%20song%20popular%20(Spotify)%20-%20Timothy%20Liu.ipynb)
+[Open Excel](https://github.com/Timothy0324/Optimizing-the-U.S.-Energy-Mix/blob/main/ADT_Final%20Project_Liu%2C%20Hsiao%2C%20Wankhede.xlsx)
 
 ---
 
@@ -59,6 +58,9 @@ We used a **Pareto-based decision model** to evaluate trade-offs between cost an
 - Total generation = 1000 MWh  
 - Generation capacity limits for each source
 
+<img width="874" height="329" alt="image" src="https://github.com/user-attachments/assets/2d2126fc-8128-496a-9700-e82ea7b34468" />
+
+
 ---
 
 ## Key Insights
@@ -97,12 +99,3 @@ We used a **Pareto-based decision model** to evaluate trade-offs between cost an
 **Revati Wankhede** – MS in Management & Business Analytics  
 University of Pittsburgh | Katz Graduate School of Business  
 Project Advisor: Prof. Elena Rokou
-
----
-
-## References
-
-- U.S. EIA – Energy Information Administration  
-- Center for Sustainable Systems – Nuclear & Renewable Factsheets  
-- 2025 Sustainable Energy in America Factbook  
-- Wikipedia – Electricity Cost by Source
